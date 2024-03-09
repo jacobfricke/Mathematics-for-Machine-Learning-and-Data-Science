@@ -2,7 +2,7 @@
 
 #### Summary:
 
-This document introduces the fundamental concepts of linear algebra, focusing on systems of linear equations and their relation to the language of mathematics. It begins by drawing an analogy between sentences (systems of sentences) and linear equations (systems of equations), demonstrating how both can convey information through their combination. It explains the types of systems - complete, redundant, and contradictory (singular and non-singular) - using simple animal color examples. The document transitions into defining linear equations, showcasing how equations can represent real-life scenarios like grocery shopping problems. It concludes with an introduction to matrices, emphasizing their importance in linear algebra for representing and analyzing systems of linear equations.
+This week introduces the fundamental concepts of linear algebra, focusing on systems of linear equations and their relation to the language of mathematics. It begins by drawing an analogy between sentences (systems of sentences) and linear equations (systems of equations), demonstrating how both can convey information through their combination. It explains the types of systems - complete, redundant, and contradictory (singular and non-singular) - using simple animal color examples. The document transitions into defining linear equations, showcasing how equations can represent real-life scenarios like grocery shopping problems. It concludes with an introduction to matrices, emphasizing their importance in linear algebra for representing and analyzing systems of linear equations.
 
 #### Table of Definitions and Concepts:
 
